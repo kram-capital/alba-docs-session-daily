@@ -8,7 +8,11 @@ Please take a look at the official Tradingview documentation if you are unsure o
 ## Inputs Tab
 
 === Initialisation
-Content here
+![](/assets/img/alba-docs-daily-inputs-1-timezone.png)
+
+UTC (+/-)
+:   Time zone differential relative to UTC
+
 ===
 
 ### Begin
@@ -18,3 +22,27 @@ Content here
 Content here
 
 ===
+
+
+Mark BoS / CHoCH
+:   Toggles the marking of BoS and CHoCH instances
+
+Failed Structures Bullish
+:   Colour of bullish BoS / CHoCH markings
+
+Failed Structures Bearish
+:   Colour of bearish BoS / CHoCH markings
+
+Row 1
+:   In order from left to right
+    - BoS label
+    - BoS line type
+    - BoS line thickness
+
+Row 2
+:   In order from left to right
+    - CHoCH label
+    - CHoCH line type
+    - CHoCH line thickness
+
+    <!-- TODO get rid -->
