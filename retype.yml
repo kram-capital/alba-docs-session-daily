@@ -1,8 +1,8 @@
 input: .
 output: .retype
-url: https://kram-capital.github.io/alba-docs-INDICATOR-NAME/
+url: https://AlbaTherium.github.io/alba-docs-daily-session/
 branding:
-  title: INDICATOR-NAME
+  title: Daily/Session
   label: Docs
   logo: /assets/img/albatherium-logo-small.svg
 links:
