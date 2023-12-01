@@ -220,3 +220,26 @@ Triggering alerts requires an additional step that will be explained in the aler
 !!!
 
 ===
+
+ ## Style Tab
+
+![](/assets/img/alba-docs-daily-styles-1.png)
+
+The three settings within the style tab are to globally toggle the visibility of the drawings created by OptiStruct.
+
+Style settings
+:   &nbsp;
+    - Display or hide all OptiStruct boxes
+    - Display or hide all OptiStruct labels
+    - Display or hide all OptiStruct lines
+
+Labels on price scale
+:   Show the labels of drawing tools on the price scale
+
+Values in status line
+:   Show the values of drawing tools in the status line
+
+
+## Visibility Tab
+This is outside of the scope of our software but below is a link where you will find the official documentation.
+[!ref target="blank" text="Official Docs"](https://shorturl.at/rGSUZ)
